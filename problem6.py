@@ -1,4 +1,4 @@
-num = int(input("Enter a number For A: "))
+num = int(input("Enter a number For num: "))
 
 if num > 40:
     print("Pass the exam");
