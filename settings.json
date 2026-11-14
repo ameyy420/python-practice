@@ -1,0 +1,11 @@
+
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.py$",
+                "cmd": "bash ${workspaceFolder}/.git-auto-push.sh"
+            }
+        ]
+    }
+}
