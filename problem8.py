@@ -14,3 +14,6 @@ elif num>70 and num<80:
     print("Got A Grade")
  elif num>80 or num<=100:
     print("Got A+ Grade")
+ else:
+    print("Better luck next time")
+    
