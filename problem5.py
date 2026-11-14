@@ -7,4 +7,4 @@ elif A<B:
 elif A==B:
     print ("A is equal to B")
 else:
-    print ("Invalid input please try again")
+    print ("Invalid  please try again")
