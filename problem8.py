@@ -12,5 +12,5 @@ elif num>60 and num<70:
     
 elif num>70 and num<80:
     print("Got A Grade")
- elif num>80 and num<=100:
+ elif num>80 or num<=100:
     print("Got A+ Grade")
