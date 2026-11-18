@@ -8,3 +8,4 @@ elif num1%11 == 0:
     print(" Divisible by 11 ")
 else:
     print(" Not divisible ")
+    
