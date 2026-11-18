@@ -1,3 +1,3 @@
 #Problem 2: Print  even numbers
-for i in range (2,20):
+for i in range (2,20,2):
     print(i)
