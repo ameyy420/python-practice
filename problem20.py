@@ -4,4 +4,4 @@ multi = 0
 
 for i in range (n,11):
     multi = n*i
-    print(multi)
+    print(n, "x", i, "=", n * i)
