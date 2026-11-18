@@ -2,6 +2,6 @@
 n = int(input("Enter a number:"))
 multi = 0
 
-for i in range (n,11):
+for i in range (1,11):
     multi = n*i
     print(n, "x", i, "=", n * i)
